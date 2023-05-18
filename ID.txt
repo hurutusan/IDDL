@@ -1,0 +1,7 @@
+スパイダーマン系の武器ID
+
+スパイダー・バースのウェブシューター　WID_WestSausage_FearlessFlight
+スパイダーマンのウェブシューター（20発のみ）　WID_WestSausage_Parallel_L_SD_Comp
+スパイダーマンのウェブシューター（無限弾薬）　WID_WestSausage_Parallel
+スパイダーマンのウェブシューター（80発のみ）　WID_WestSausage_Parallel_L_M
+レア度紫のスパイダーマンのウェブシューター（0発のみ、無限弾薬にしても意味なし）　WID_WestSausage_Parallel_L_P
